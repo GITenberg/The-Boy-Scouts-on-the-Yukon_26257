@@ -1,0 +1,30 @@
+_repo: The-Boy-Scouts-on-the-Yukon_26257
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mencl, Rudolf
+    gutenberg_agent_id: '31883'
+    url: http://www.gutenberg.org/2009/agents/31883
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Victor, Ralph
+    gutenberg_agent_id: '1804'
+    url: http://www.gutenberg.org/2009/agents/1804
+description: ''
+gutenberg_issued: '2008-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Alaska -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Scouts on the Yukon
+url: http://www.gutenberg.org/ebooks/26257
